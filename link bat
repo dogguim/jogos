@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Forge Jam - Random Bat Game</title>
+</head>
+
+<body style="background:#210613; text-align:center;">
+
+    <iframe
+        frameborder="0"
+        src="https://itch.io/embed/5002896?border_width=3&amp;bg_color=210613&amp;fg_color=F63090&amp;link_color=F63090&amp;border_color=F63090"
+        width="556"
+        height="171">
+        
+        <a href="https://doggus-1.itch.io/random-bat-game">
+            Forge Jam: Random Bat Game
+        </a>
+    </iframe>
+
+</body>
+</html>
